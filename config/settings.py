@@ -33,11 +33,26 @@ ALLOWED_HOSTS = []
 INSTALLED_APPS = [
 
     # Locals
+    # core
     'apps.core.apps.CoreConfig',
+    # desa
     'apps.desa.apps.DesaConfig',
+    # rt
+    'apps.rt01.apps.Rt01Config',
+    'apps.rt02.apps.Rt02Config',
+    'apps.rt03.apps.Rt03Config',
+    'apps.rt04.apps.Rt04Config',
+    'apps.rt05.apps.Rt05Config',
+    'apps.rt06.apps.Rt06Config',
+    'apps.rt07.apps.Rt07Config',
+    'apps.rt08.apps.Rt08Config',
     'apps.rt09.apps.Rt09Config',
+    'apps.rt10.apps.Rt10Config',
+    'apps.rt11.apps.Rt11Config',
     'apps.rt12.apps.Rt12Config',
+    # rw
     'apps.rw14.apps.Rw14Config',
+    # end Locals
     
     'django.contrib.admin',
     'django.contrib.auth',
