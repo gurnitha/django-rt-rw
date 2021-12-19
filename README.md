@@ -135,3 +135,71 @@
         new file:   apps/rw14/migrations/0001_initial.py
         modified:   apps/rw14/models.py
         modified:   config/settings.py
+
+
+#### 4. Current file structures
+
+		E:.
+		├───apps
+		│   ├───core
+		│   │   ├───migrations
+		│   │   │   └───__pycache__
+		│   │   └───__pycache__
+		│   ├───desa
+		│   │   ├───migrations
+		│   │   │   └───__pycache__
+		│   │   └───__pycache__
+		│   ├───rt01
+		│   │   ├───migrations
+		│   │   │   └───__pycache__
+		│   │   └───__pycache__
+		│   ├───rt02
+		│   │   ├───migrations
+		│   │   │   └───__pycache__
+		│   │   └───__pycache__
+		│   ├───rt03
+		│   │   ├───migrations
+		│   │   │   └───__pycache__
+		│   │   └───__pycache__
+		│   ├───rt04
+		│   │   ├───migrations
+		│   │   │   └───__pycache__
+		│   │   └───__pycache__
+		│   ├───rt05
+		│   │   ├───migrations
+		│   │   │   └───__pycache__
+		│   │   └───__pycache__
+		│   ├───rt06
+		│   │   ├───migrations
+		│   │   │   └───__pycache__
+		│   │   └───__pycache__
+		│   ├───rt07
+		│   │   ├───migrations
+		│   │   │   └───__pycache__
+		│   │   └───__pycache__
+		│   ├───rt08
+		│   │   ├───migrations
+		│   │   │   └───__pycache__
+		│   │   └───__pycache__
+		│   ├───rt09
+		│   │   ├───migrations
+		│   │   │   └───__pycache__
+		│   │   └───__pycache__
+		│   ├───rt10
+		│   │   ├───migrations
+		│   │   │   └───__pycache__
+		│   │   └───__pycache__
+		│   ├───rt11
+		│   │   ├───migrations
+		│   │   │   └───__pycache__
+		│   │   └───__pycache__
+		│   ├───rt12
+		│   │   ├───migrations
+		│   │   │   └───__pycache__
+		│   │   └───__pycache__
+		│   └───rw14
+		│       ├───migrations
+		│       │   └───__pycache__
+		│       └───__pycache__
+		└───config
+		    └───__pycache__
